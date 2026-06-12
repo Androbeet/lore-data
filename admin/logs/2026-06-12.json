@@ -176,5 +176,14 @@
    "id": "p_1781287970669_q9yxg",
    "private": false
   }
+ },
+ {
+  "ts": "2026-06-12T20:06:19.722Z",
+  "user": "androbeet",
+  "action": "vote",
+  "details": {
+   "post": "p_1781287970669_q9yxg",
+   "dir": "up"
+  }
  }
 ]
