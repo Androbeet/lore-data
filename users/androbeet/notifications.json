@@ -1,6 +1,13 @@
 {
- "unread_count": 8,
+ "unread_count": 9,
  "items": [
+  {
+   "type": "upvote",
+   "from": "michael",
+   "post": "p_1781281848029_uqpcn",
+   "ts": "2026-06-12T16:56:31.421Z",
+   "read": false
+  },
   {
    "type": "upvote",
    "from": "michael",
