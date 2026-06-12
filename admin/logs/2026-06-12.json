@@ -81,5 +81,14 @@
   "details": {
    "id": "p_1781281848029_uqpcn"
   }
+ },
+ {
+  "ts": "2026-06-12T16:31:53.415Z",
+  "user": "baka",
+  "action": "vote",
+  "details": {
+   "post": "p_1781272396827_pk00a",
+   "dir": "up"
+  }
  }
 ]
