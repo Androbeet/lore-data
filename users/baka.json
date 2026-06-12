@@ -2,7 +2,9 @@
  "bio": "New to LORE. Writing my first pages.",
  "pfp": "https://raw.githubusercontent.com/Androbeet/lore-data/main/pfp/baka.jpg?v=1781281028342",
  "voice": "",
- "tags": [],
+ "tags": [
+  "Tech"
+ ],
  "followers": [],
  "following": [
   "androbeet"
@@ -17,7 +19,11 @@
  "resonance": 0,
  "pioneer": 0,
  "ranks": {},
- "theme": "maroon",
+ "theme": "velvet",
  "banned": false,
- "shadowbanned": false
+ "shadowbanned": false,
+ "banner": "https://files.catbox.moe/n42jyd.png",
+ "socials": {},
+ "showcase": [],
+ "claimed": []
 }
