@@ -1,6 +1,12 @@
 {
- "unread_count": 10,
+ "unread_count": 11,
  "items": [
+  {
+   "type": "follow",
+   "from": "michael",
+   "ts": "2026-06-12T17:32:14.286Z",
+   "read": false
+  },
   {
    "type": "upvote",
    "from": "baka",
