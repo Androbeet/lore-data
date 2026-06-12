@@ -30,7 +30,9 @@
  "admin": true,
  "banner": "",
  "socials": {},
- "showcase": [],
+ "showcase": [
+  "seal_1"
+ ],
  "claimed": [
   "first_post",
   "pfp_set",
