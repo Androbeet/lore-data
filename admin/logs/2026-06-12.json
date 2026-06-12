@@ -149,5 +149,14 @@
    "post": "p_1781281848029_uqpcn",
    "dir": "up"
   }
+ },
+ {
+  "ts": "2026-06-12T17:56:58.122Z",
+  "user": "androbeet",
+  "action": "vote",
+  "details": {
+   "post": "p_1781281848029_uqpcn",
+   "dir": "up"
+  }
  }
 ]
