@@ -24,5 +24,11 @@
  "pioneer": 0,
  "ranks": {},
  "theme": "ivory",
- "admin": true
+ "admin": true,
+ "banner": "",
+ "socials": {},
+ "showcase": [],
+ "claimed": [
+  "first_post"
+ ]
 }
