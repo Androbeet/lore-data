@@ -2,7 +2,10 @@
  "bio": "New to LORE. Writing my first pages.",
  "pfp": "https://raw.githubusercontent.com/Androbeet/lore-data/main/pfp/michael.jpg?v=1781283434467",
  "voice": "",
- "tags": [],
+ "tags": [
+  "Philosophy",
+  "Psychology"
+ ],
  "followers": [],
  "following": [],
  "joined": "2026-06-12",
@@ -15,7 +18,11 @@
  "resonance": 0,
  "pioneer": 0,
  "ranks": {},
- "theme": "maroon",
+ "theme": "obsidian",
  "banned": false,
- "shadowbanned": false
+ "shadowbanned": false,
+ "banner": "",
+ "socials": {},
+ "showcase": [],
+ "claimed": []
 }
