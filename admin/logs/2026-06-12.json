@@ -59,5 +59,13 @@
   "details": {
    "post": "p_1781272396827_pk00a"
   }
+ },
+ {
+  "ts": "2026-06-12T15:46:13.283Z",
+  "user": "androbeet",
+  "action": "admin_seal",
+  "details": {
+   "target": "baka"
+  }
  }
 ]
