@@ -30,13 +30,14 @@
  "admin": true,
  "banner": "",
  "socials": {},
- "showcase": [],
+ "showcase": [
+  "seal_1"
+ ],
  "claimed": [
   "first_post",
   "pfp_set",
   "tag_3",
   "early_100",
-  "seal_1",
-  "theme_swap"
+  "seal_1"
  ]
 }
