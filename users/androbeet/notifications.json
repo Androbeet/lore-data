@@ -1,6 +1,13 @@
 {
- "unread_count": 2,
+ "unread_count": 3,
  "items": [
+  {
+   "type": "upvote",
+   "from": "baka",
+   "post": "p_1781272396827_pk00a",
+   "ts": "2026-06-12T16:31:51.682Z",
+   "read": false
+  },
   {
    "type": "follow",
    "from": "baka",
