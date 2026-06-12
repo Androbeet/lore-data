@@ -193,5 +193,13 @@
   "details": {
    "email": "aryank.lidolearning01@gmail.com"
   }
+ },
+ {
+  "ts": "2026-06-12T20:33:45.788Z",
+  "user": "androbeet",
+  "action": "admin_seal",
+  "details": {
+   "target": "aryanix_07"
+  }
  }
 ]
