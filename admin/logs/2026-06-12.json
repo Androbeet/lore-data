@@ -185,5 +185,13 @@
    "post": "p_1781287970669_q9yxg",
    "dir": "up"
   }
+ },
+ {
+  "ts": "2026-06-12T20:21:56.941Z",
+  "user": "aryanix_07",
+  "action": "signup",
+  "details": {
+   "email": "aryank.lidolearning01@gmail.com"
+  }
  }
 ]
