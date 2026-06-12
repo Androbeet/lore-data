@@ -140,5 +140,14 @@
   "user": "michael",
   "action": "pfp_upload",
   "details": {}
+ },
+ {
+  "ts": "2026-06-12T17:08:38.843Z",
+  "user": "baka",
+  "action": "vote",
+  "details": {
+   "post": "p_1781281848029_uqpcn",
+   "dir": "up"
+  }
  }
 ]
