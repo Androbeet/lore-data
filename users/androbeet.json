@@ -26,10 +26,12 @@
  "resonance": 0,
  "pioneer": 0,
  "ranks": {},
- "theme": "velvet",
+ "theme": "nocturne",
  "admin": true,
  "banner": "",
- "socials": {},
+ "socials": {
+  "instagram": "androbeet_"
+ },
  "showcase": [
   "seal_1"
  ],
@@ -40,6 +42,7 @@
   "early_100",
   "seal_1",
   "first_vote",
-  "theme_swap"
+  "theme_swap",
+  "first_follow"
  ]
 }
