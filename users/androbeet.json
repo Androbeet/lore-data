@@ -12,7 +12,9 @@
  "followers": [
   "baka"
  ],
- "following": [],
+ "following": [
+  "michael"
+ ],
  "joined": "2026-06-11",
  "streak": {
   "count": 0,
