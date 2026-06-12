@@ -1,6 +1,12 @@
 {
- "unread_count": 2,
+ "unread_count": 3,
  "items": [
+  {
+   "type": "seal",
+   "from": "androbeet",
+   "ts": "2026-06-12T20:33:49.669Z",
+   "read": false
+  },
   {
    "type": "seal",
    "from": "androbeet",
