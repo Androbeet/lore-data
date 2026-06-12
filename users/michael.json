@@ -9,7 +9,9 @@
  "followers": [
   "androbeet"
  ],
- "following": [],
+ "following": [
+  "androbeet"
+ ],
  "joined": "2026-06-12",
  "streak": {
   "count": 0,
