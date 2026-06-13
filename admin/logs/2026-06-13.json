@@ -34,5 +34,13 @@
    "id": "p_1781315023220_ikpnd",
    "private": false
   }
+ },
+ {
+  "ts": "2026-06-13T01:44:16.818Z",
+  "user": "androbeet",
+  "action": "admin_ban",
+  "details": {
+   "target": "baka"
+  }
  }
 ]
