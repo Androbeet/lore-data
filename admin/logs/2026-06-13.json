@@ -76,5 +76,13 @@
   "details": {
    "target": "androbeet"
   }
+ },
+ {
+  "ts": "2026-06-13T01:45:44.109Z",
+  "user": "androbeet",
+  "action": "admin_shadowban",
+  "details": {
+   "target": "androbeet"
+  }
  }
 ]
