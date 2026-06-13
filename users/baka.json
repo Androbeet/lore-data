@@ -20,7 +20,7 @@
  "pioneer": 0,
  "ranks": {},
  "theme": "velvet",
- "banned": true,
+ "banned": false,
  "shadowbanned": false,
  "banner": "https://files.catbox.moe/n42jyd.png",
  "socials": {},
