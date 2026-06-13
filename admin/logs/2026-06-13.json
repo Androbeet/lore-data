@@ -16,5 +16,14 @@
    "post": "p_1781272396827_pk00a",
    "dir": "up"
   }
+ },
+ {
+  "ts": "2026-06-13T01:42:40.495Z",
+  "user": "androbeet",
+  "action": "vote",
+  "details": {
+   "post": "p_1781281848029_uqpcn",
+   "dir": "up"
+  }
  }
 ]
