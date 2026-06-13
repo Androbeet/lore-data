@@ -68,5 +68,13 @@
    "id": "p_1781315093538_knwh0",
    "private": false
   }
+ },
+ {
+  "ts": "2026-06-13T01:45:37.934Z",
+  "user": "androbeet",
+  "action": "admin_shadowban",
+  "details": {
+   "target": "androbeet"
+  }
  }
 ]
