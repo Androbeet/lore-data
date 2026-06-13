@@ -9,7 +9,15 @@
  "down": [],
  "shares": 0,
  "echo": "",
- "pioneer": "",
- "comments": [],
+ "pioneer": "androbeet",
+ "comments": [
+  {
+   "a": "androbeet",
+   "t": "Bruh wht?",
+   "ts": 1781378566493,
+   "parent": null,
+   "cid": "c1781378566493yey2"
+  }
+ ],
  "private": false
 }
