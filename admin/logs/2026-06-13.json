@@ -50,5 +50,14 @@
   "details": {
    "target": "baka"
   }
+ },
+ {
+  "ts": "2026-06-13T01:44:45.900Z",
+  "user": "baka",
+  "action": "post_created",
+  "details": {
+   "id": "p_1781315084046_lfr61",
+   "private": false
+  }
  }
 ]
