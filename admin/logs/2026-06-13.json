@@ -42,5 +42,13 @@
   "details": {
    "target": "baka"
   }
+ },
+ {
+  "ts": "2026-06-13T01:44:22.670Z",
+  "user": "androbeet",
+  "action": "admin_ban",
+  "details": {
+   "target": "baka"
+  }
  }
 ]
