@@ -1,5 +1,5 @@
 {
- "unread_count": 2,
+ "unread_count": 0,
  "items": [
   {
    "type": "comment",
@@ -7,13 +7,13 @@
    "post": "p_1781281848029_uqpcn",
    "snippet": "Not too smooth while loading",
    "ts": "2026-06-14T10:00:55.494Z",
-   "read": false
+   "read": true
   },
   {
    "type": "follow",
    "from": "genomeext7509gmailco",
    "ts": "2026-06-14T09:59:46.264Z",
-   "read": false
+   "read": true
   },
   {
    "type": "follow",
