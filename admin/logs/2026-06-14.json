@@ -93,5 +93,14 @@
    "post": "p_1781272396827_pk00a",
    "dir": "up"
   }
+ },
+ {
+  "ts": "2026-06-14T11:28:01.925Z",
+  "user": "ninja",
+  "action": "vote",
+  "details": {
+   "post": "p_1781315093538_knwh0",
+   "dir": "up"
+  }
  }
 ]
