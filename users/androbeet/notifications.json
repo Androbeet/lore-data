@@ -1,6 +1,13 @@
 {
- "unread_count": 1,
+ "unread_count": 2,
  "items": [
+  {
+   "type": "gift",
+   "from": "xenon",
+   "gift": "cake",
+   "ts": "2026-06-14T18:21:49.138Z",
+   "read": false
+  },
   {
    "type": "follow",
    "from": "xenon",
