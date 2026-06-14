@@ -1,6 +1,13 @@
 {
- "unread_count": 3,
+ "unread_count": 4,
  "items": [
+  {
+   "type": "upvote",
+   "from": "ninja",
+   "post": "p_1781315093538_knwh0",
+   "ts": "2026-06-14T11:28:00.400Z",
+   "read": false
+  },
   {
    "type": "comment",
    "from": "androbeet",
