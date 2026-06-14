@@ -145,5 +145,13 @@
    "balance": 2010,
    "day": 1
   }
+ },
+ {
+  "ts": "2026-06-14T18:19:31.941Z",
+  "user": "xenon",
+  "action": "signup",
+  "details": {
+   "email": "swarajitkaur7@gmail.com"
+  }
  }
 ]
