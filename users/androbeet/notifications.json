@@ -1,5 +1,5 @@
 {
- "unread_count": 5,
+ "unread_count": 0,
  "items": [
   {
    "type": "coins",
@@ -7,7 +7,7 @@
    "amount": 1000,
    "note": "It's me myself",
    "ts": "2026-06-14T16:05:27.510Z",
-   "read": false
+   "read": true
   },
   {
    "type": "coins",
@@ -15,27 +15,27 @@
    "amount": 1000,
    "note": "It's me myself",
    "ts": "2026-06-14T16:05:24.069Z",
-   "read": false
+   "read": true
   },
   {
    "type": "upvote",
    "from": "ninja",
    "post": "p_1781272396827_pk00a",
    "ts": "2026-06-14T11:27:18.770Z",
-   "read": false
+   "read": true
   },
   {
    "type": "upvote",
    "from": "ninja",
    "post": "p_1781287970669_q9yxg",
    "ts": "2026-06-14T11:27:11.621Z",
-   "read": false
+   "read": true
   },
   {
    "type": "follow",
    "from": "ninja",
    "ts": "2026-06-14T11:27:06.533Z",
-   "read": false
+   "read": true
   },
   {
    "type": "comment",
