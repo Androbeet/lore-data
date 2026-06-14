@@ -1,72 +1,72 @@
 {
- "unread_count": 11,
+ "unread_count": 0,
  "items": [
   {
    "type": "follow",
    "from": "michael",
    "ts": "2026-06-12T17:32:14.286Z",
-   "read": false
+   "read": true
   },
   {
    "type": "upvote",
    "from": "baka",
    "post": "p_1781281848029_uqpcn",
    "ts": "2026-06-12T17:08:37.965Z",
-   "read": false
+   "read": true
   },
   {
    "type": "upvote",
    "from": "michael",
    "post": "p_1781281848029_uqpcn",
    "ts": "2026-06-12T16:56:31.421Z",
-   "read": false
+   "read": true
   },
   {
    "type": "upvote",
    "from": "michael",
    "post": "p_1781272396827_pk00a",
    "ts": "2026-06-12T16:56:26.277Z",
-   "read": false
+   "read": true
   },
   {
    "type": "upvote",
    "from": "michael",
    "post": "p_1781272396827_pk00a",
    "ts": "2026-06-12T16:56:24.990Z",
-   "read": false
+   "read": true
   },
   {
    "type": "upvote",
    "from": "michael",
    "post": "p_1781281848029_uqpcn",
    "ts": "2026-06-12T16:55:46.216Z",
-   "read": false
+   "read": true
   },
   {
    "type": "upvote",
    "from": "michael",
    "post": "p_1781272396827_pk00a",
    "ts": "2026-06-12T16:55:40.741Z",
-   "read": false
+   "read": true
   },
   {
    "type": "follow",
    "from": "michael",
    "ts": "2026-06-12T16:55:37.128Z",
-   "read": false
+   "read": true
   },
   {
    "type": "upvote",
    "from": "baka",
    "post": "p_1781272396827_pk00a",
    "ts": "2026-06-12T16:31:51.682Z",
-   "read": false
+   "read": true
   },
   {
    "type": "follow",
    "from": "baka",
    "ts": "2026-06-12T15:00:27.715Z",
-   "read": false
+   "read": true
   },
   {
    "type": "comment",
@@ -74,7 +74,7 @@
    "post": "p_1781272396827_pk00a",
    "snippet": "Death Note",
    "ts": "2026-06-12T14:59:02.168Z",
-   "read": false
+   "read": true
   }
  ]
 }
