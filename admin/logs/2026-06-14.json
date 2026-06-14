@@ -153,5 +153,15 @@
   "details": {
    "email": "swarajitkaur7@gmail.com"
   }
+ },
+ {
+  "ts": "2026-06-14T18:20:43.885Z",
+  "user": "xenon",
+  "action": "coins_claim",
+  "details": {
+   "reward": 10,
+   "balance": 10,
+   "day": 1
+  }
  }
 ]
