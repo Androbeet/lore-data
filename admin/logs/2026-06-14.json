@@ -75,5 +75,14 @@
   "user": "ninja",
   "action": "pfp_upload",
   "details": {}
+ },
+ {
+  "ts": "2026-06-14T11:27:12.715Z",
+  "user": "ninja",
+  "action": "vote",
+  "details": {
+   "post": "p_1781287970669_q9yxg",
+   "dir": "up"
+  }
  }
 ]
