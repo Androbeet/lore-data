@@ -16,7 +16,9 @@
   "Math",
   "Horror"
  ],
- "followers": [],
+ "followers": [
+  "androbeet"
+ ],
  "following": [
   "androbeet",
   "baka"
