@@ -26,6 +26,8 @@
  "claimed": [
   "first_follow",
   "early_100",
-  "first_vote"
+  "first_vote",
+  "first_comment",
+  "pfp_set"
  ]
 }
