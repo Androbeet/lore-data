@@ -1,6 +1,12 @@
 {
- "unread_count": 5,
+ "unread_count": 6,
  "items": [
+  {
+   "type": "follow",
+   "from": "ninja",
+   "ts": "2026-06-14T11:28:08.354Z",
+   "read": false
+  },
   {
    "type": "upvote",
    "from": "ninja",
