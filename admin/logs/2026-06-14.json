@@ -52,5 +52,14 @@
   "details": {
    "id": "p_1781315023220_ikpnd"
   }
+ },
+ {
+  "ts": "2026-06-14T10:25:22.184Z",
+  "user": "androbeet",
+  "action": "vote",
+  "details": {
+   "post": "p_1781281848029_uqpcn",
+   "dir": ""
+  }
  }
 ]
