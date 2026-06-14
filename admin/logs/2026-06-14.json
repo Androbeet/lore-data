@@ -4,5 +4,13 @@
   "user": "androbeet",
   "action": "data_export",
   "details": {}
+ },
+ {
+  "ts": "2026-06-14T09:59:29.887Z",
+  "user": "genomeext7509gmailco",
+  "action": "signup",
+  "details": {
+   "email": "genome.ext7509@gmail.com"
+  }
  }
 ]
