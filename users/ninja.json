@@ -17,7 +17,9 @@
   "Horror"
  ],
  "followers": [],
- "following": [],
+ "following": [
+  "androbeet"
+ ],
  "joined": "2026-06-14",
  "streak": {
   "count": 0,
