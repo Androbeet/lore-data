@@ -44,5 +44,13 @@
   "details": {
    "post": "p_1781281848029_uqpcn"
   }
+ },
+ {
+  "ts": "2026-06-14T10:21:51.486Z",
+  "user": "androbeet",
+  "action": "post_deleted",
+  "details": {
+   "id": "p_1781315023220_ikpnd"
+  }
  }
 ]
