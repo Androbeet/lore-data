@@ -3,7 +3,9 @@
  "pfp": "",
  "voice": "",
  "tags": [],
- "followers": [],
+ "followers": [
+  "androbeet"
+ ],
  "following": [
   "androbeet"
  ],
