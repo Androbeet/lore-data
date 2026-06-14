@@ -2,7 +2,20 @@
  "bio": "New to LORE. Writing my first pages.",
  "pfp": "https://raw.githubusercontent.com/Androbeet/lore-data/main/pfp/ninja.jpg?v=1781436192758",
  "voice": "",
- "tags": [],
+ "tags": [
+  "Tech",
+  "Music",
+  "Art",
+  "Philosophy",
+  "Memes",
+  "Gaming",
+  "Science",
+  "Space",
+  "Psychology",
+  "Self Improvement",
+  "Math",
+  "Horror"
+ ],
  "followers": [],
  "following": [],
  "joined": "2026-06-14",
@@ -15,7 +28,12 @@
  "resonance": 0,
  "pioneer": 0,
  "ranks": {},
- "theme": "maroon",
+ "theme": "nocturne",
  "banned": false,
- "shadowbanned": false
+ "shadowbanned": false,
+ "banner": "",
+ "privateProfile": true,
+ "socials": {},
+ "showcase": [],
+ "claimed": []
 }
