@@ -17,7 +17,13 @@
  "resonance": 0,
  "pioneer": 0,
  "ranks": {},
- "theme": "maroon",
+ "theme": "ivory",
  "banned": false,
- "shadowbanned": false
+ "shadowbanned": false,
+ "banner": "",
+ "socials": {},
+ "showcase": [],
+ "claimed": [
+  "first_follow"
+ ]
 }
