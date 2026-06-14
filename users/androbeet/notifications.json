@@ -1,6 +1,12 @@
 {
- "unread_count": 0,
+ "unread_count": 1,
  "items": [
+  {
+   "type": "follow",
+   "from": "ninja",
+   "ts": "2026-06-14T11:27:06.533Z",
+   "read": false
+  },
   {
    "type": "comment",
    "from": "genomeext7509gmailco",
