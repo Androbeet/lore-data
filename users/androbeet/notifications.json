@@ -1,6 +1,12 @@
 {
- "unread_count": 0,
+ "unread_count": 1,
  "items": [
+  {
+   "type": "follow",
+   "from": "genomeext7509gmailco",
+   "ts": "2026-06-14T09:59:46.264Z",
+   "read": false
+  },
   {
    "type": "follow",
    "from": "michael",
