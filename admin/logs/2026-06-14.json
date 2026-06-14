@@ -135,5 +135,15 @@
    "target": "androbeet",
    "amount": 1000
   }
+ },
+ {
+  "ts": "2026-06-14T17:49:31.294Z",
+  "user": "androbeet",
+  "action": "coins_claim",
+  "details": {
+   "reward": 10,
+   "balance": 2010,
+   "day": 1
+  }
  }
 ]
