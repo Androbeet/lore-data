@@ -17,13 +17,15 @@
  "resonance": 0,
  "pioneer": 0,
  "ranks": {},
- "theme": "ivory",
+ "theme": "obsidian",
  "banned": false,
  "shadowbanned": false,
  "banner": "",
  "socials": {},
  "showcase": [],
  "claimed": [
-  "first_follow"
+  "first_follow",
+  "early_100",
+  "first_vote"
  ]
 }
