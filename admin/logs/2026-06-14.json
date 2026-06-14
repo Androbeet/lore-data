@@ -126,5 +126,14 @@
    "target": "androbeet",
    "amount": 1000
   }
+ },
+ {
+  "ts": "2026-06-14T16:05:28.409Z",
+  "user": "androbeet",
+  "action": "admin_coins",
+  "details": {
+   "target": "androbeet",
+   "amount": 1000
+  }
  }
 ]
