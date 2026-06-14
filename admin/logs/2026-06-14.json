@@ -177,5 +177,14 @@
   "details": {
    "post": "p_1781272396827_pk00a"
   }
+ },
+ {
+  "ts": "2026-06-14T18:54:50.031Z",
+  "user": "xenon",
+  "action": "vote",
+  "details": {
+   "post": "p_1781272396827_pk00a",
+   "dir": "up"
+  }
  }
 ]
