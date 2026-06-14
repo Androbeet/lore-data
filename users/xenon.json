@@ -28,6 +28,7 @@
   "early_100",
   "first_vote",
   "first_comment",
-  "pfp_set"
+  "pfp_set",
+  "theme_swap"
  ]
 }
