@@ -1,6 +1,13 @@
 {
- "unread_count": 1,
+ "unread_count": 2,
  "items": [
+  {
+   "type": "upvote",
+   "from": "ninja",
+   "post": "p_1781287970669_q9yxg",
+   "ts": "2026-06-14T11:27:11.621Z",
+   "read": false
+  },
   {
    "type": "follow",
    "from": "ninja",
