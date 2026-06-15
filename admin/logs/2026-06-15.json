@@ -94,5 +94,13 @@
   "user": "androbeet",
   "action": "data_export",
   "details": {}
+ },
+ {
+  "ts": "2026-06-15T13:39:50.948Z",
+  "user": "androbeet",
+  "action": "admin_ban",
+  "details": {
+   "target": "baka"
+  }
  }
 ]
