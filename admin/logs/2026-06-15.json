@@ -72,5 +72,13 @@
   "user": "androbeet",
   "action": "data_export",
   "details": {}
+ },
+ {
+  "ts": "2026-06-15T13:10:55.256Z",
+  "user": "androbeet",
+  "action": "admin_warning",
+  "details": {
+   "target": "baka"
+  }
  }
 ]
