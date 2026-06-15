@@ -8,5 +8,11 @@
    "balance": 10,
    "day": 1
   }
+ },
+ {
+  "ts": "2026-06-15T08:47:55.310Z",
+  "user": "androbeet",
+  "action": "data_export",
+  "details": {}
  }
 ]
