@@ -212,5 +212,14 @@
    "balance": 10,
    "day": 1
   }
+ },
+ {
+  "ts": "2026-06-15T18:10:01.220Z",
+  "user": "androbeet",
+  "action": "admin_coins",
+  "details": {
+   "target": "micheal",
+   "amount": 2000
+  }
  }
 ]
