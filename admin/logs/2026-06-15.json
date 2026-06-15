@@ -168,5 +168,13 @@
    "post": "p_1781272396827_pk00a",
    "dir": "up"
   }
+ },
+ {
+  "ts": "2026-06-15T17:06:06.863Z",
+  "user": "androbeet",
+  "action": "admin_broadcast",
+  "details": {
+   "sent": 6
+  }
  }
 ]
