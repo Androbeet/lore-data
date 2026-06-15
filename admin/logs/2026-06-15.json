@@ -239,5 +239,13 @@
    "target": "micheal",
    "amount": 2000
   }
+ },
+ {
+  "ts": "2026-06-15T18:52:54.355Z",
+  "user": "sharon",
+  "action": "signup",
+  "details": {
+   "email": "sharonvkm449@gmail.com"
+  }
  }
 ]
