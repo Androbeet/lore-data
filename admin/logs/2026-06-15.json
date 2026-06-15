@@ -271,5 +271,11 @@
   "details": {
    "sent": 7
   }
+ },
+ {
+  "ts": "2026-06-15T22:30:06.880Z",
+  "user": "androbeet",
+  "action": "data_export",
+  "details": {}
  }
 ]
