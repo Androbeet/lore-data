@@ -1,6 +1,14 @@
 {
- "unread_count": 1,
+ "unread_count": 2,
  "items": [
+  {
+   "type": "coins",
+   "from": "androbeet",
+   "amount": 1000,
+   "note": "Yele ghodu",
+   "ts": "2026-06-15T09:59:42.547Z",
+   "read": false
+  },
   {
    "type": "follow",
    "from": "androbeet",
