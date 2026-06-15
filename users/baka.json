@@ -27,5 +27,13 @@
  "banner": "https://files.catbox.moe/n42jyd.png",
  "socials": {},
  "showcase": [],
- "claimed": []
+ "claimed": [],
+ "customBadges": [
+  {
+   "name": "weeb",
+   "color": "Red",
+   "by": "androbeet",
+   "ts": "2026-06-15T10:02:37.547Z"
+  }
+ ]
 }
