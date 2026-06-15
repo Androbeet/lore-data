@@ -230,5 +230,14 @@
    "target": "micheal",
    "amount": 2000
   }
+ },
+ {
+  "ts": "2026-06-15T18:10:04.730Z",
+  "user": "androbeet",
+  "action": "admin_coins",
+  "details": {
+   "target": "micheal",
+   "amount": 2000
+  }
  }
 ]
