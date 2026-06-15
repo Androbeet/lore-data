@@ -1,12 +1,12 @@
 {
- "unread_count": 1,
+ "unread_count": 0,
  "items": [
   {
    "type": "upvote",
    "from": "xenon",
    "post": "p_1781272396827_pk00a",
    "ts": "2026-06-15T16:08:43.562Z",
-   "read": false
+   "read": true
   },
   {
    "type": "story_like",
