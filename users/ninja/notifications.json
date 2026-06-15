@@ -1,6 +1,13 @@
 {
- "unread_count": 0,
+ "unread_count": 1,
  "items": [
+  {
+   "type": "warning",
+   "from": "androbeet",
+   "snippet": "Ghodu hai kyaa???",
+   "ts": "2026-06-15T13:12:25.919Z",
+   "read": false
+  },
   {
    "type": "coins",
    "from": "androbeet",
