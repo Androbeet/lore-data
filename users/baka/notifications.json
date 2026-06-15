@@ -1,45 +1,45 @@
 {
- "unread_count": 9,
+ "unread_count": 0,
  "items": [
   {
    "type": "broadcast",
    "from": "androbeet",
    "snippet": "checkout new Avatar frames chat bubbles and gifts in store ! Earn LCs by completely achiev",
    "ts": "2026-06-15T13:50:40.732Z",
-   "read": false
+   "read": true
   },
   {
    "type": "warning",
    "from": "androbeet",
    "snippet": "Ghodu hai kya.?",
    "ts": "2026-06-15T13:10:54.036Z",
-   "read": false
+   "read": true
   },
   {
    "type": "dm_request",
    "from": "xenon",
    "ts": "2026-06-14T18:29:31.177Z",
-   "read": false
+   "read": true
   },
   {
    "type": "follow",
    "from": "ninja",
    "ts": "2026-06-14T11:28:08.354Z",
-   "read": false
+   "read": true
   },
   {
    "type": "upvote",
    "from": "ninja",
    "post": "p_1781315084046_lfr61",
    "ts": "2026-06-14T11:28:03.414Z",
-   "read": false
+   "read": true
   },
   {
    "type": "upvote",
    "from": "ninja",
    "post": "p_1781315093538_knwh0",
    "ts": "2026-06-14T11:28:00.400Z",
-   "read": false
+   "read": true
   },
   {
    "type": "comment",
@@ -47,7 +47,7 @@
    "post": "p_1781315023220_ikpnd",
    "snippet": "Wht??",
    "ts": "2026-06-13T19:23:05.423Z",
-   "read": false
+   "read": true
   },
   {
    "type": "comment",
@@ -55,13 +55,13 @@
    "post": "p_1781315023220_ikpnd",
    "snippet": "Bruh wht?",
    "ts": "2026-06-13T19:22:48.268Z",
-   "read": false
+   "read": true
   },
   {
    "type": "seal",
    "from": "androbeet",
    "ts": "2026-06-12T15:46:12.231Z",
-   "read": false
+   "read": true
   }
  ]
 }
