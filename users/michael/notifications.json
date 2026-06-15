@@ -1,6 +1,13 @@
 {
- "unread_count": 5,
+ "unread_count": 6,
  "items": [
+  {
+   "type": "broadcast",
+   "from": "androbeet",
+   "snippet": "Questions? andrewz772k6@gmail.com",
+   "ts": "2026-06-15T17:09:16.222Z",
+   "read": false
+  },
   {
    "type": "broadcast",
    "from": "androbeet",
