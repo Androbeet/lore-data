@@ -1,6 +1,13 @@
 {
- "unread_count": 6,
+ "unread_count": 7,
  "items": [
+  {
+   "type": "broadcast",
+   "from": "androbeet",
+   "snippet": "### IMPORTANT MSG !!\n\nSome profile Avatar frames pngs are **corrupt**\nSo **DO NOT PURCHASE",
+   "ts": "2026-06-15T21:41:18.213Z",
+   "read": false
+  },
   {
    "type": "broadcast",
    "from": "androbeet",
