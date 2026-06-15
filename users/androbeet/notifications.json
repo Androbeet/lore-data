@@ -1,6 +1,12 @@
 {
- "unread_count": 0,
+ "unread_count": 1,
  "items": [
+  {
+   "type": "dm_request",
+   "from": "sharon",
+   "ts": "2026-06-15T18:53:16.623Z",
+   "read": false
+  },
   {
    "type": "upvote",
    "from": "xenon",
