@@ -176,5 +176,13 @@
   "details": {
    "sent": 6
   }
+ },
+ {
+  "ts": "2026-06-15T17:06:19.360Z",
+  "user": "androbeet",
+  "action": "admin_broadcast",
+  "details": {
+   "sent": 6
+  }
  }
 ]
