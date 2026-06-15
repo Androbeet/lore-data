@@ -1,0 +1,12 @@
+[
+ {
+  "ts": "2026-06-15T04:25:07.942Z",
+  "user": "ninja",
+  "action": "coins_claim",
+  "details": {
+   "reward": 10,
+   "balance": 10,
+   "day": 1
+  }
+ }
+]
