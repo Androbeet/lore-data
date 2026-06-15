@@ -1,6 +1,12 @@
 {
- "unread_count": 1,
+ "unread_count": 2,
  "items": [
+  {
+   "type": "dm_request",
+   "from": "androbeet",
+   "ts": "2026-06-15T19:18:00.248Z",
+   "read": false
+  },
   {
    "type": "follow",
    "from": "androbeet",
