@@ -150,5 +150,14 @@
   "details": {
    "sent": 6
   }
+ },
+ {
+  "ts": "2026-06-15T13:56:05.751Z",
+  "user": "baka",
+  "action": "post_created",
+  "details": {
+   "id": "p_1781531763452_w3uhb",
+   "private": false
+  }
  }
 ]
