@@ -80,5 +80,13 @@
   "details": {
    "target": "baka"
   }
+ },
+ {
+  "ts": "2026-06-15T13:12:26.987Z",
+  "user": "androbeet",
+  "action": "admin_warning",
+  "details": {
+   "target": "ninja"
+  }
  }
 ]
