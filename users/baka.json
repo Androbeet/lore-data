@@ -28,7 +28,11 @@
  "socials": {},
  "showcase": [],
  "claimed": [
-  "first_post"
+  "first_post",
+  "first_vote",
+  "first_follow",
+  "pfp_set",
+  "dm_1"
  ],
  "customBadges": [
   {
