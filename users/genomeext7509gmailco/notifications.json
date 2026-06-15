@@ -1,6 +1,13 @@
 {
- "unread_count": 1,
+ "unread_count": 2,
  "items": [
+  {
+   "type": "broadcast",
+   "from": "androbeet",
+   "snippet": "checkout new Avatar frames chat bubbles and gifts in store ! Earn LCs by completely achiev",
+   "ts": "2026-06-15T13:50:47.674Z",
+   "read": false
+  },
   {
    "type": "follow",
    "from": "androbeet",
