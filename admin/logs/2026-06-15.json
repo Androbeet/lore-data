@@ -50,5 +50,15 @@
    "target": "ninja",
    "amount": 1000
   }
+ },
+ {
+  "ts": "2026-06-15T12:24:00.436Z",
+  "user": "baka",
+  "action": "coins_claim",
+  "details": {
+   "reward": 10,
+   "balance": 10,
+   "day": 1
+  }
  }
 ]
