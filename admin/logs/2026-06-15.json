@@ -192,5 +192,15 @@
   "details": {
    "sent": 6
   }
+ },
+ {
+  "ts": "2026-06-15T17:51:29.936Z",
+  "user": "androbeet",
+  "action": "coins_claim",
+  "details": {
+   "reward": 15,
+   "balance": 765,
+   "day": 2
+  }
  }
 ]
