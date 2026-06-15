@@ -1,6 +1,13 @@
 {
- "unread_count": 7,
+ "unread_count": 8,
  "items": [
+  {
+   "type": "warning",
+   "from": "androbeet",
+   "snippet": "Ghodu hai kya.?",
+   "ts": "2026-06-15T13:10:54.036Z",
+   "read": false
+  },
   {
    "type": "dm_request",
    "from": "xenon",
