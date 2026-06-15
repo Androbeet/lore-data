@@ -1,6 +1,13 @@
 {
- "unread_count": 4,
+ "unread_count": 5,
  "items": [
+  {
+   "type": "broadcast",
+   "from": "androbeet",
+   "snippet": "Welcome to <lore>",
+   "ts": "2026-06-15T17:06:13.396Z",
+   "read": false
+  },
   {
    "type": "broadcast",
    "from": "androbeet",
