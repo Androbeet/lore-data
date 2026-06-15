@@ -142,5 +142,13 @@
   "details": {
    "target": "baka"
   }
+ },
+ {
+  "ts": "2026-06-15T13:50:52.590Z",
+  "user": "androbeet",
+  "action": "admin_broadcast",
+  "details": {
+   "sent": 6
+  }
  }
 ]
