@@ -41,5 +41,14 @@
    "target": "micheal",
    "amount": 1000
   }
+ },
+ {
+  "ts": "2026-06-15T09:59:43.762Z",
+  "user": "androbeet",
+  "action": "admin_coins",
+  "details": {
+   "target": "ninja",
+   "amount": 1000
+  }
  }
 ]
