@@ -247,5 +247,13 @@
   "details": {
    "email": "sharonvkm449@gmail.com"
   }
+ },
+ {
+  "ts": "2026-06-15T21:41:30.961Z",
+  "user": "androbeet",
+  "action": "admin_broadcast",
+  "details": {
+   "sent": 7
+  }
  }
 ]
