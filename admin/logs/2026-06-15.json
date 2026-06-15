@@ -14,5 +14,14 @@
   "user": "androbeet",
   "action": "data_export",
   "details": {}
+ },
+ {
+  "ts": "2026-06-15T09:59:20.669Z",
+  "user": "androbeet",
+  "action": "admin_coins",
+  "details": {
+   "target": "micheal",
+   "amount": 1000
+  }
  }
 ]
