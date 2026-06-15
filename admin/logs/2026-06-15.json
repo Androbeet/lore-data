@@ -202,5 +202,15 @@
    "balance": 765,
    "day": 2
   }
+ },
+ {
+  "ts": "2026-06-15T18:08:04.192Z",
+  "user": "michael",
+  "action": "coins_claim",
+  "details": {
+   "reward": 10,
+   "balance": 10,
+   "day": 1
+  }
  }
 ]
