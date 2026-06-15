@@ -159,5 +159,14 @@
    "id": "p_1781531763452_w3uhb",
    "private": false
   }
+ },
+ {
+  "ts": "2026-06-15T16:08:44.997Z",
+  "user": "xenon",
+  "action": "vote",
+  "details": {
+   "post": "p_1781272396827_pk00a",
+   "dir": "up"
+  }
  }
 ]
