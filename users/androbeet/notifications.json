@@ -1,6 +1,14 @@
 {
- "unread_count": 4,
+ "unread_count": 5,
  "items": [
+  {
+   "type": "story_like",
+   "from": "ninja",
+   "story": "s_1781457493557_wrig",
+   "owner": "androbeet",
+   "ts": "2026-06-15T04:24:55.191Z",
+   "read": false
+  },
   {
    "type": "upvote",
    "from": "xenon",
