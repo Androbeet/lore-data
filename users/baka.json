@@ -27,7 +27,9 @@
  "banner": "https://files.catbox.moe/n42jyd.png",
  "socials": {},
  "showcase": [],
- "claimed": [],
+ "claimed": [
+  "first_post"
+ ],
  "customBadges": [
   {
    "name": "weeb",
