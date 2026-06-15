@@ -1,6 +1,15 @@
 {
- "banned": [],
+ "banned": [
+  "baka"
+ ],
  "shadowbanned": [],
- "users": {},
- "updated": "2026-06-15T13:40:31.846Z"
+ "users": {
+  "baka": {
+   "banned": true,
+   "shadowbanned": false,
+   "updated": "2026-06-15T13:40:35.231Z",
+   "by": "androbeet"
+  }
+ },
+ "updated": "2026-06-15T13:40:35.231Z"
 }
