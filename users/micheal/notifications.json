@@ -1,6 +1,14 @@
 {
- "unread_count": 2,
+ "unread_count": 3,
  "items": [
+  {
+   "type": "coins",
+   "from": "androbeet",
+   "amount": 1000,
+   "note": "Enjoy !!",
+   "ts": "2026-06-15T09:59:31.019Z",
+   "read": false
+  },
   {
    "type": "coins",
    "from": "androbeet",
