@@ -69,5 +69,14 @@
    "id": "p_1781611910255_jw3d7",
    "private": false
   }
+ },
+ {
+  "ts": "2026-06-16T12:15:53.726Z",
+  "user": "androbeet",
+  "action": "vote",
+  "details": {
+   "post": "p_1781531763452_w3uhb",
+   "dir": "up"
+  }
  }
 ]
