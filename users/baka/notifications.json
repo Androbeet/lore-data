@@ -1,6 +1,13 @@
 {
- "unread_count": 10,
+ "unread_count": 11,
  "items": [
+  {
+   "type": "upvote",
+   "from": "androbeet",
+   "post": "p_1781531763452_w3uhb",
+   "ts": "2026-06-16T12:15:52.709Z",
+   "read": false
+  },
   {
    "type": "follow",
    "from": "androbeet",
