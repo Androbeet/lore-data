@@ -60,5 +60,14 @@
   "details": {
    "sent": 7
   }
+ },
+ {
+  "ts": "2026-06-16T12:11:52.504Z",
+  "user": "androbeet",
+  "action": "post_created",
+  "details": {
+   "id": "p_1781611910255_jw3d7",
+   "private": false
+  }
  }
 ]
