@@ -34,5 +34,15 @@
    "post": "p_1781281848029_uqpcn",
    "dir": ""
   }
+ },
+ {
+  "ts": "2026-06-16T05:58:05.908Z",
+  "user": "ninja",
+  "action": "coins_claim",
+  "details": {
+   "reward": 15,
+   "balance": 1025,
+   "day": 2
+  }
  }
 ]
