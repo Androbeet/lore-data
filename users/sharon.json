@@ -7,7 +7,9 @@
   "androbeet",
   "baka"
  ],
- "following": [],
+ "following": [
+  "baka"
+ ],
  "joined": "2026-06-15",
  "streak": {
   "count": 0,
