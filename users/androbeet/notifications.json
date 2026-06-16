@@ -1,6 +1,14 @@
 {
- "unread_count": 3,
+ "unread_count": 4,
  "items": [
+  {
+   "type": "story_like",
+   "from": "michael",
+   "story": "s_1781547164591_me48",
+   "owner": "androbeet",
+   "ts": "2026-06-16T05:57:44.114Z",
+   "read": false
+  },
   {
    "type": "upvote",
    "from": "michael",
