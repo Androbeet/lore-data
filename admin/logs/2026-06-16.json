@@ -7,5 +7,14 @@
    "post": "p_1781272396827_pk00a",
    "dir": ""
   }
+ },
+ {
+  "ts": "2026-06-16T05:57:15.181Z",
+  "user": "michael",
+  "action": "vote",
+  "details": {
+   "post": "p_1781272396827_pk00a",
+   "dir": "up"
+  }
  }
 ]
