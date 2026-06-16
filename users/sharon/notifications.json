@@ -1,86 +1,86 @@
 {
- "unread_count": 12,
+ "unread_count": 0,
  "items": [
   {
    "type": "broadcast",
    "from": "androbeet",
    "snippet": "Btw you can report posts/ids now - , add custom text to explain why ts user should be bann",
    "ts": "2026-06-16T12:17:32.506Z",
-   "read": false
+   "read": true
   },
   {
    "type": "follow",
    "from": "baka",
    "ts": "2026-06-16T11:46:33.988Z",
-   "read": false
+   "read": true
   },
   {
    "type": "broadcast",
    "from": "androbeet",
    "snippet": ":  I have replaced all corrupt frames ~",
    "ts": "2026-06-16T10:55:52.157Z",
-   "read": false
+   "read": true
   },
   {
    "type": "broadcast",
    "from": "androbeet",
    "snippet": ":  I have replaced all corrupt frames ~",
    "ts": "2026-06-16T10:55:46.650Z",
-   "read": false
+   "read": true
   },
   {
    "type": "gift",
    "from": "androbeet",
    "gift": "galaxy",
    "ts": "2026-06-16T10:32:05.189Z",
-   "read": false
+   "read": true
   },
   {
    "type": "gift",
    "from": "androbeet",
    "gift": "galaxy",
    "ts": "2026-06-16T10:32:03.621Z",
-   "read": false
+   "read": true
   },
   {
    "type": "gift",
    "from": "androbeet",
    "gift": "galaxy",
    "ts": "2026-06-16T10:31:58.106Z",
-   "read": false
+   "read": true
   },
   {
    "type": "broadcast",
    "from": "androbeet",
    "snippet": "### IMPORTANT MSG !!\n\nSome profile Avatar frames pngs are **corrupt**\nSo **DO NOT PURCHASE",
    "ts": "2026-06-15T21:41:48.843Z",
-   "read": false
+   "read": true
   },
   {
    "type": "broadcast",
    "from": "androbeet",
    "snippet": "### IMPORTANT MSG !!\n\nSome profile Avatar frames pngs are **corrupt**\nSo **DO NOT PURCHASE",
    "ts": "2026-06-15T21:41:33.737Z",
-   "read": false
+   "read": true
   },
   {
    "type": "broadcast",
    "from": "androbeet",
    "snippet": "### IMPORTANT MSG !!\n\nSome profile Avatar frames pngs are **corrupt**\nSo **DO NOT PURCHASE",
    "ts": "2026-06-15T21:41:29.938Z",
-   "read": false
+   "read": true
   },
   {
    "type": "dm_request",
    "from": "androbeet",
    "ts": "2026-06-15T19:18:00.248Z",
-   "read": false
+   "read": true
   },
   {
    "type": "follow",
    "from": "androbeet",
    "ts": "2026-06-15T19:17:52.317Z",
-   "read": false
+   "read": true
   }
  ]
 }
