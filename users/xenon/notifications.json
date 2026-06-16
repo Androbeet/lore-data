@@ -1,6 +1,13 @@
 {
- "unread_count": 10,
+ "unread_count": 11,
  "items": [
+  {
+   "type": "broadcast",
+   "from": "androbeet",
+   "snippet": "Btw you can report posts/ids now - , add custom text to explain why ts user should be bann",
+   "ts": "2026-06-16T12:17:30.270Z",
+   "read": false
+  },
   {
    "type": "broadcast",
    "from": "androbeet",
