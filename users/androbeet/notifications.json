@@ -1,11 +1,11 @@
 {
- "unread_count": 7,
+ "unread_count": 0,
  "items": [
   {
    "type": "follow",
    "from": "sharon",
    "ts": "2026-06-16T16:05:40.826Z",
-   "read": false
+   "read": true
   },
   {
    "type": "story_like",
@@ -13,7 +13,7 @@
    "story": "s_1781547164591_me48",
    "owner": "androbeet",
    "ts": "2026-06-16T11:30:19.693Z",
-   "read": false
+   "read": true
   },
   {
    "type": "story_like",
@@ -21,7 +21,7 @@
    "story": "s_1781547164591_me48",
    "owner": "androbeet",
    "ts": "2026-06-16T06:02:02.118Z",
-   "read": false
+   "read": true
   },
   {
    "type": "story_like",
@@ -29,27 +29,27 @@
    "story": "s_1781547164591_me48",
    "owner": "androbeet",
    "ts": "2026-06-16T05:57:44.114Z",
-   "read": false
+   "read": true
   },
   {
    "type": "upvote",
    "from": "michael",
    "post": "p_1781287970669_q9yxg",
    "ts": "2026-06-16T05:57:17.834Z",
-   "read": false
+   "read": true
   },
   {
    "type": "upvote",
    "from": "michael",
    "post": "p_1781272396827_pk00a",
    "ts": "2026-06-16T05:57:14.383Z",
-   "read": false
+   "read": true
   },
   {
    "type": "dm_request",
    "from": "sharon",
    "ts": "2026-06-15T18:53:16.623Z",
-   "read": false
+   "read": true
   },
   {
    "type": "upvote",
