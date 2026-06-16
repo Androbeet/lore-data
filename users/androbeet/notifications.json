@@ -1,6 +1,12 @@
 {
- "unread_count": 6,
+ "unread_count": 7,
  "items": [
+  {
+   "type": "follow",
+   "from": "sharon",
+   "ts": "2026-06-16T16:05:40.826Z",
+   "read": false
+  },
   {
    "type": "story_like",
    "from": "baka",
