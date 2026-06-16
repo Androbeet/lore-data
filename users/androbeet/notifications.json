@@ -1,6 +1,14 @@
 {
- "unread_count": 4,
+ "unread_count": 5,
  "items": [
+  {
+   "type": "story_like",
+   "from": "ninja",
+   "story": "s_1781547164591_me48",
+   "owner": "androbeet",
+   "ts": "2026-06-16T06:02:02.118Z",
+   "read": false
+  },
   {
    "type": "story_like",
    "from": "michael",
