@@ -78,5 +78,14 @@
    "post": "p_1781531763452_w3uhb",
    "dir": "up"
   }
+ },
+ {
+  "ts": "2026-06-16T12:17:33.483Z",
+  "user": "androbeet",
+  "action": "admin_broadcast",
+  "details": {
+   "sent": 7,
+   "cid": "bc_1781612235249_fpbygf547kq"
+  }
  }
 ]
