@@ -1,6 +1,13 @@
 {
- "unread_count": 1,
+ "unread_count": 2,
  "items": [
+  {
+   "type": "upvote",
+   "from": "michael",
+   "post": "p_1781272396827_pk00a",
+   "ts": "2026-06-16T05:57:14.383Z",
+   "read": false
+  },
   {
    "type": "dm_request",
    "from": "sharon",
