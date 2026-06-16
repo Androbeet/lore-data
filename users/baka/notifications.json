@@ -1,6 +1,12 @@
 {
- "unread_count": 12,
+ "unread_count": 13,
  "items": [
+  {
+   "type": "follow",
+   "from": "sharon",
+   "ts": "2026-06-16T16:04:32.211Z",
+   "read": false
+  },
   {
    "type": "broadcast",
    "from": "androbeet",
