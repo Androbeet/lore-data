@@ -1,6 +1,13 @@
 {
- "unread_count": 5,
+ "unread_count": 6,
  "items": [
+  {
+   "type": "gift",
+   "from": "androbeet",
+   "gift": "galaxy",
+   "ts": "2026-06-16T10:31:58.106Z",
+   "read": false
+  },
   {
    "type": "broadcast",
    "from": "androbeet",
