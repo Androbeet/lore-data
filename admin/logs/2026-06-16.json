@@ -52,5 +52,13 @@
   "details": {
    "sent": 7
   }
+ },
+ {
+  "ts": "2026-06-16T10:55:53.952Z",
+  "user": "androbeet",
+  "action": "admin_broadcast",
+  "details": {
+   "sent": 7
+  }
  }
 ]
