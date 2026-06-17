@@ -8,5 +8,14 @@
    "balance": 7029,
    "day": 3
   }
+ },
+ {
+  "ts": "2026-06-17T19:02:01.375Z",
+  "user": "androbeet",
+  "action": "vote",
+  "details": {
+   "post": "p_1781611910255_jw3d7",
+   "dir": "up"
+  }
  }
 ]
