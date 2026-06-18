@@ -11,7 +11,15 @@
  "down": [],
  "shares": 0,
  "echo": "",
- "pioneer": "",
- "comments": [],
+ "pioneer": "androbeet",
+ "comments": [
+  {
+   "a": "androbeet",
+   "t": "https://media2.giphy.com/media/v1.Y2lkPTU5Y2JiNDZmaDJ0OXNrenh3YmlnZzBlOWd0ZmtoY2NncHExdjlrbjVra3dzZTQ5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yjGdFXbm8KpXF5Xqco/giphy.gif",
+   "ts": 1781775991179,
+   "parent": null,
+   "cid": "c1781775991179dizo"
+  }
+ ],
  "private": false
 }
