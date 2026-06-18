@@ -7,5 +7,15 @@
    "post": "p_1781611910255_jw3d7",
    "dir": ""
   }
+ },
+ {
+  "ts": "2026-06-18T07:42:49.282Z",
+  "user": "androbeet",
+  "action": "coins_claim",
+  "details": {
+   "reward": 25,
+   "balance": 7054,
+   "day": 4
+  }
  }
 ]
