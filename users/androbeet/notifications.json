@@ -1,6 +1,14 @@
 {
- "unread_count": 0,
+ "unread_count": 1,
  "items": [
+  {
+   "type": "comment",
+   "from": "samforsamurai",
+   "post": "p_1781272396827_pk00a",
+   "snippet": "shoujo ramune",
+   "ts": "2026-06-20T18:19:18.623Z",
+   "read": false
+  },
   {
    "type": "follow",
    "from": "sharon",
