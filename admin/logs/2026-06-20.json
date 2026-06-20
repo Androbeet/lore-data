@@ -30,5 +30,14 @@
   "details": {
    "post": "p_1781272396827_pk00a"
   }
+ },
+ {
+  "ts": "2026-06-20T18:45:00.118Z",
+  "user": "androbeet",
+  "action": "admin_coins",
+  "details": {
+   "target": "samforsamurai",
+   "amount": 5000
+  }
  }
 ]
