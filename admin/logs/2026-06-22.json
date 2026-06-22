@@ -1,0 +1,12 @@
+[
+ {
+  "ts": "2026-06-22T18:45:09.607Z",
+  "user": "androbeet",
+  "action": "coins_claim",
+  "details": {
+   "reward": 10,
+   "balance": 7094,
+   "day": 1
+  }
+ }
+]
