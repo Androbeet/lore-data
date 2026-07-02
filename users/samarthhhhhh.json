@@ -4,7 +4,9 @@
  "voice": "",
  "tags": [],
  "followers": [],
- "following": [],
+ "following": [
+  "androbeet"
+ ],
  "joined": "2026-07-02",
  "streak": {
   "count": 0,
