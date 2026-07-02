@@ -1,6 +1,12 @@
 {
- "unread_count": 1,
+ "unread_count": 2,
  "items": [
+  {
+   "type": "follow",
+   "from": "samarthhhhhh",
+   "ts": "2026-07-02T15:00:52.913Z",
+   "read": false
+  },
   {
    "type": "comment",
    "from": "samforsamurai",
