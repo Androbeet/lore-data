@@ -1,6 +1,13 @@
 {
- "unread_count": 6,
+ "unread_count": 7,
  "items": [
+  {
+   "type": "upvote",
+   "from": "samarthhhhhh",
+   "post": "p_1781281848029_uqpcn",
+   "ts": "2026-07-02T15:01:41.809Z",
+   "read": false
+  },
   {
    "type": "upvote",
    "from": "samarthhhhhh",
