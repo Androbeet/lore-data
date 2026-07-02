@@ -1,6 +1,13 @@
 {
- "unread_count": 14,
+ "unread_count": 15,
  "items": [
+  {
+   "type": "upvote",
+   "from": "samarthhhhhh",
+   "post": "p_1781531763452_w3uhb",
+   "ts": "2026-07-02T15:01:34.568Z",
+   "read": false
+  },
   {
    "type": "follow",
    "from": "samarthhhhhh",
