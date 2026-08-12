@@ -16,5 +16,13 @@
   "user": "androbeet",
   "action": "login_failed",
   "details": {}
+ },
+ {
+  "ts": "2026-08-12T15:17:40.832Z",
+  "user": "androbeet",
+  "action": "signup",
+  "details": {
+   "email": "androbeetz@gmail.com"
+  }
  }
 ]
