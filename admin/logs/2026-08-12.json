@@ -10,5 +10,11 @@
   "user": "androbeet",
   "action": "login_failed",
   "details": {}
+ },
+ {
+  "ts": "2026-08-12T14:49:16.541Z",
+  "user": "androbeet",
+  "action": "login_failed",
+  "details": {}
  }
 ]
